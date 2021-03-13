@@ -1,4 +1,5 @@
-package zad1;
+package ex1;
+
 
     /*1. Write an application to:
 a) compute and output the celsius equivalent of an input  Fahrenheit temperature,

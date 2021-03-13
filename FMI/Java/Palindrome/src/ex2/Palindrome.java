@@ -1,4 +1,5 @@
-package zad2;
+package ex2;
+
 
 /* 2. Write code that inputs a five-digit number . Display an error message if the number
 is not five digits. Write code that separates the digits in the five digit number.  Store the

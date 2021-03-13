@@ -1,4 +1,4 @@
-package zad3;
+package ex3;
 
 import java.util.Scanner;
 

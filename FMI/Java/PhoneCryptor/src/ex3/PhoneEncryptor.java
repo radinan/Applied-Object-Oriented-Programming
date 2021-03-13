@@ -1,4 +1,5 @@
-package zad3;
+package ex3;
+
 
 /* All their data is transmitted as four-digit Integers. They
 have asked you to write a program that encrypts their data so that it may be
